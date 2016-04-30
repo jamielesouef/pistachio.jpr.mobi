@@ -1,2 +1,2 @@
-# pistachio.jrp.mobi
+# pistachio.jpr.mobi
 Support site for pistachio app
