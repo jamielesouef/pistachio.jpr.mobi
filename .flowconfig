@@ -1,6 +1,0 @@
-[ignore]
-.*/dist/.*
-.*/node_modules/fbjs/.*
-
-[options]
-esproposal.class_static_fields=enable
